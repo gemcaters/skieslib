@@ -1,0 +1,13 @@
+{
+  "itemGroup.skieslib": "Example Mod Tab",
+  "block.skieslib.example_block": "Example Block",
+  "item.skieslib.example_item": "Example Item",
+
+  "skieslib.configuration.title": "SkiesLib Configs",
+  "skieslib.configuration.section.skieslib.common.toml": "SkiesLib Configs",
+  "skieslib.configuration.section.skieslib.common.toml.title": "SkiesLib Configs",
+  "skieslib.configuration.items": "Item List",
+  "skieslib.configuration.logDirtBlock": "Log Dirt Block",
+  "skieslib.configuration.magicNumberIntroduction": "Magic Number Text",
+  "skieslib.configuration.magicNumber": "Magic Number"
+}
